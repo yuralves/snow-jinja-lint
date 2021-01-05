@@ -1,0 +1,7 @@
+-   id: format-sql
+    name: format-sql
+    entry: format-sql
+    language: python
+    'types': [python]
+    require_serial: true
+    additional_dependencies: []
