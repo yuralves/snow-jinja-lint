@@ -2,6 +2,6 @@
     name: format-sql
     entry: format-sql
     language: python
-    'types': [python]
+    'types': [sql]
     require_serial: true
     additional_dependencies: []
