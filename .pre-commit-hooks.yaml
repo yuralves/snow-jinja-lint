@@ -1,5 +1,4 @@
 -   id: format-sql
     name: format-sql
     entry: format-sql
-    types: [sql]
-    language: python
+    files: \.sql$
